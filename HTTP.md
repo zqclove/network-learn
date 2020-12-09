@@ -6,7 +6,7 @@
 
 URI 包含 URL 和 URN。
 
-![URI](C:\Users\Administrator\Desktop\学习\网络\URI.png)
+![URI](C:\Users\Administrator\Desktop\学习\网络\network-learn\img\URI.png)
 
 ## 请求和响应报文
 
@@ -21,7 +21,7 @@ URI 包含 URL 和 URN。
 - 一个空行用来分隔首部和内容主体 Body
 - 最后是请求的内容主体
 
-![请求报文](C:\Users\Administrator\Desktop\学习\网络\请求报文.png)
+![请求报文](C:\Users\Administrator\Desktop\学习\网络\network-learn\img\请求报文.png)
 
 ### 2. 响应报文
 
@@ -32,7 +32,7 @@ URI 包含 URL 和 URN。
 - 一个空行分隔首部和内容主体
 - 最后是响应的内容主体
 
-![响应报文](C:\Users\Administrator\Desktop\学习\网络\响应报文.png)
+![响应报文](C:\Users\Administrator\Desktop\学习\网络\network-learn\img\响应报文.png)
 
 # HTTP方法
 
@@ -138,7 +138,7 @@ DELETE /file.html HTTP/1.1
 CONNECT www.example.com:443 HTTP/1.1
 ```
 
- [![img](https://camo.githubusercontent.com/1fdcf70fd0e44a9b77beecc8983b4e2e8afde712/68747470733a2f2f63732d6e6f7465732d313235363130393739362e636f732e61702d6775616e677a686f752e6d7971636c6f75642e636f6d2f64633030663730652d633563382d346432302d626166312d3264373030313461393765332e6a7067)](https://camo.githubusercontent.com/1fdcf70fd0e44a9b77beecc8983b4e2e8afde712/68747470733a2f2f63732d6e6f7465732d313235363130393739362e636f732e61702d6775616e677a686f752e6d7971636c6f75642e636f6d2f64633030663730652d633563382d346432302d626166312d3264373030313461393765332e6a7067) 
+![http-connect](C:\Users\Administrator\Desktop\学习\网络\network-learn\img\http-connect.jpg)
 
 ## TRACE
 
